@@ -4,7 +4,7 @@
 *.ipr
 *.iws
 .idea
-.class
+*.class
 /bin
 */*.log
 */target/
